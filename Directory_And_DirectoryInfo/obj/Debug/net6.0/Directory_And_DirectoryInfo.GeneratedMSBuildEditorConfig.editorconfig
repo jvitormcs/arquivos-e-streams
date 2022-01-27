@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Aquivos_e_Streams_em_C_
-build_property.ProjectDir = c:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\File_And_FileInfo\
+build_property.RootNamespace = Directory_And_DirectoryInfo
+build_property.ProjectDir = C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\Directory_And_DirectoryInfo\
