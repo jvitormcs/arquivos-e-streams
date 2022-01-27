@@ -1,5 +1,6 @@
 ﻿using static System.Console;
-CriaDirGlobo();
+
+/* CriaDirGlobo();
 CriaArquivo();
 
 var origem = Path.Combine(Environment.CurrentDirectory, "Brasil.text");
@@ -9,9 +10,46 @@ var destino = Path.Combine(Environment.CurrentDirectory,
     "Brasil",
     "brasil.text");
 
-
 CopiarArquivo(origem, destinoArgentina);
-MoverArquivo(origem, destino);
+MoverArquivo(origem, destino); */
+
+LerArquivos(path);
+
+static void LerArquivos(string path)
+{
+    var arquivos = Directory.GetFiles(path, "*", SearchOption.AllDirectories);
+
+    foreach (var arquivo in arquivos)
+    {
+        var fileInfo = new fileInfo(arquivo);
+        Console.WriteLine($"[Nome]:{fileInfo.Name}");   
+        Console.WriteLine($"[Tamanho]:{fileInfo.Length}");   
+        Console.WriteLine($"[Ultimo acesso]:{fileInfo.LastAccessTime}");  
+        Console.WriteLine($"[Pasta]:{fileInfo.DirectoryName}");  
+        Console.WriteLine("----------------------------------"); 
+    }
+}
+
+static void LerDiretorio(string path)
+{
+
+    if(Directory.Exists(path)){
+    var diretorios = Directory.GetDirectories(path, "*", SearchOption.AllDirectories);
+
+    foreach (var dir in diretorios)
+    {
+        var dirInfo = new DirectoryInfo(dir);
+        Console.WriteLine($"[Nome:]: {dirInfo.Name}");
+        Console.WriteLine($"[Raiz]: {dirInfo.Root}");
+        if(dirInfo.Parent != null)
+        Console.WriteLine($"[Pai]: {dirInfo.Parent.Name}");
+
+        Console.WriteLine("----------------------------------");
+    }}
+    else{
+        Console.WriteLine($"{path} não existe");
+    }
+}
 
 static void CopiarArquivo(string pathOrigem, string pathDestino)
 {
