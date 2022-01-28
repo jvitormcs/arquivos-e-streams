@@ -2,11 +2,12 @@
 
 //LerDiretorio(path);
 
+LerArquivos(path);
+
 Console.WriteLine("Digite [enter] para finalizar....");
 Console.ReadLine();
 
 
-LerArquivos(path);
 
 static void LerArquivos(string path)
 {

@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\bin\Debug\net6.0\ref\FileSystemWatcher.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\bin\Debug\net6.0\FileSystemWatcher.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\obj\Debug\net6.0\ref\FileSystemWatcher.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\FileSystemWatcher\obj\Debug\net6.0\FileSystemWatcher.genruntimeconfig.cache
