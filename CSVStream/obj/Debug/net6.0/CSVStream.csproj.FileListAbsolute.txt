@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\bin\Debug\net6.0\CSVStream.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\bin\Debug\net6.0\CSVStream.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\bin\Debug\net6.0\CSVStream.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\bin\Debug\net6.0\CSVStream.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\bin\Debug\net6.0\ref\CSVStream.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\bin\Debug\net6.0\CSVStream.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\obj\Debug\net6.0\CSVStream.csproj.AssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\obj\Debug\net6.0\CSVStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\obj\Debug\net6.0\CSVStream.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\obj\Debug\net6.0\CSVStream.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\obj\Debug\net6.0\CSVStream.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\obj\Debug\net6.0\CSVStream.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\obj\Debug\net6.0\ref\CSVStream.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\obj\Debug\net6.0\CSVStream.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Aulas Dio C#\Aquivos e Streams em C#\CSVStream\obj\Debug\net6.0\CSVStream.genruntimeconfig.cache
